@@ -3,13 +3,21 @@ import styled from 'styled-components';
 
 const MegaboxuInfo = () => {
   return (
-    <>
+    <MegaWrapper>
       {INFO.map(info => (
-        <InfoText bold={info.bold}>{info.title}</InfoText>
+        <InfoText key={info.id} bold={info.bold}>
+          {info.title}
+        </InfoText>
       ))}
-    </>
+    </MegaWrapper>
   );
 };
+
+const MegaWrapper = styled.div`
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+`;
 
 const InfoText = styled.span`
   margin-right: 0.875rem;
