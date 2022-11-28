@@ -1,0 +1,56 @@
+[
+  {
+    "id": 0,
+    "title": "브로커",
+    "poster_url": "/images/브로커.jpg",
+    "age_limit": "12",
+    "reservation_rate": 31.6,
+    "release_date": "2022.06.08",
+    "description": "강동원 멋있다"
+  },
+  {
+    "id": 1,
+    "title": "범죄도시2",
+    "poster_url": "/images/범죄도시2.jpg",
+    "age_limit": "15",
+    "reservation_rate": 19.2,
+    "release_date": "2022.05.18",
+    "description": "손석구 멋있다"
+  },
+  {
+    "id": 2,
+    "title": "쥬라기 월드:도미니언",
+    "poster_url": "/images/쥬라기월드.jpg",
+    "age_limit": "15",
+    "reservation_rate": 10.2,
+    "release_date": "2022.06.01",
+    "description": "킹 카지노박"
+  },
+  {
+    "id": 3,
+    "title": "버즈 라이트이어",
+    "poster_url": "/images/버즈라이트이어.jpeg",
+    "age_limit": "ALL",
+    "reservation_rate": 5,
+    "release_date": "2022.06.15",
+    "description": "나 멋지네"
+  },
+  {
+    "id": 4,
+    "title": "마녀2",
+    "poster_url": "/images/마녀.jpg",
+    "age_limit": "15",
+    "reservation_rate": 3.9,
+    "release_date": "2022.06.15",
+    "description": "마녀 재밌다"
+  },
+  {
+    "id": 5,
+    "title": "탑건:매버릭",
+    "poster_url": "/images/탑건.jpeg",
+    "age_limit": "12",
+    "reservation_rate": 2.2,
+    "release_date": "2022.06.22",
+    "description": "탑건 두번 봄"
+  }
+]

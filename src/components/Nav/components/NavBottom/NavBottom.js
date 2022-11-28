@@ -1,5 +1,5 @@
 import React from 'react';
-import IconMenu from './components/IconMenu/IconMenu';
+import IconMenu from './components/IconMenu';
 import TextMenu from './components/TextMenu/TextMenu';
 
 const NavBottom = () => {
